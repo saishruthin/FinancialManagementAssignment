@@ -1,0 +1,5 @@
+Final Beta Results
+Mahindra - Levered Beta : 0.8993682963068793|| Unlevered Beta : 0.43112941591595666
+Maruti Suzuki - Levered Beta : 0.3670164055332974 || Unlevered Beta : 0.3645556548629723
+Olectra Company - Levered Beta : 0.8277085800743869 || Unlevered beta : 0.7005129425338102
+Average Unlevered beta : 0.4987326711042464

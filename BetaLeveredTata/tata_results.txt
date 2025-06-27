@@ -1,0 +1,5 @@
+The results between Market and Tata Motors
+Beta levered of Tata Motors : 1.40363997364929
+Alpha for the regression : 0.3624566731384655Market Averages and Tata Returns Averages
+Market Average (Rm) : 0.9801751417166814
+Tata Motors market average : 1.7382696832293572
